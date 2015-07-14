@@ -1,0 +1,3 @@
+*.pyc
+testo.py
+__pycache__/
